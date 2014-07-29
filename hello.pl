@@ -1,4 +1,6 @@
 #!/usr/bin/perl
+# mais je veux pas ecrire la doc
+
 
 use strict;
 use warnings;
